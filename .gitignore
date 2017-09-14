@@ -140,3 +140,5 @@ ENV/
 # Rope project settings
 .ropeproject
 
+#ignore large data files
+data/fpdsAllCSV.csv
